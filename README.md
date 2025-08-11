@@ -19,7 +19,6 @@ I'm passionate about **block chain analytics**, **data science**, and **building
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
@@ -27,6 +26,7 @@ I'm passionate about **block chain analytics**, **data science**, and **building
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Highcharts](https://img.shields.io/badge/Highcharts-2E6E9E?style=for-the-badge&logo=highcharts&logoColor=white)
 ![Highchart](https://img.shields.io/badge/Highchart-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)

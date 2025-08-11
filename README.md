@@ -20,6 +20,8 @@ I'm passionate about **block chain analytics**, **data science**, and **building
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 
 ### **Data Science & Machine Learning**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)

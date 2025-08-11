@@ -8,8 +8,8 @@ I'm passionate about **block chain analytics**, **data science**, and **building
 ## 🚀 About Me
 - 💻 I love coding and building impactful projects.  
 - 📊 Data scientist passionate about extracting insights from complex datasets.  
-- 🤖 Experienced in machine learning, statistical analysis, and data visualization.  
-- 🌱 Currently exploring new frameworks and tools in AI/ML.  
+- 🤖 Experienced in blockchain analysis, statistical analysis, and data visualization.  
+- 🌱 Currently exploring new frameworks and tools in AI.  
 - 🤝 Open to collaborating on interesting data science projects.
 
 ---
@@ -19,13 +19,13 @@ I'm passionate about **block chain analytics**, **data science**, and **building
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Data Science & Machine Learning**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Highchart](https://img.shields.io/badge/Highchart-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5A46?style=for-the-badge&logo=xgboost&logoColor=white)
